@@ -1,17 +1,23 @@
 <h1>Hi, I'm Landon! <br/><a href="https://www.linkedin.com/in/landon-ortiz2002/">IT Professional/Aerospace Engineering Technician </a>, 
 
+<h2> Certifcations: </h2>
+- [IPC/WHMA-A-620 CIS]()
+- [IPC/WHMA-A-620 Space Addendum]()
+- [SpaceX Cable and Harness Manufacturing]()
+- [Google IT Support Professional Certificate]()
+
 <h2>👨‍💻 Engineering Technician:</h2>
 
 - <b> Cable Test </b>
   - [Cami Cable Testing]()
-  - [Manual Cable Testing)]()
+  - [Manual Cable Testing]()
   - [Programming Cable Test Pins]()
 - <b> Building Cables </b>
-  - [Fixture Cables)]()
-  - [Nasa Cables)]()
-  - [Space X)]()
+  - [Fixture Cables]()
+  - [Nasa Cables]()
+  - [Space X]()
 - <b> Cleaning and 6S </b>
-
+- []()
 <h2>📺 Quality Assurance Technician</h2>
 
 - <b> Inspecting </b>
