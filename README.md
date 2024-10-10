@@ -1,10 +1,11 @@
 <h1>Hi, I'm Landon! <br/><a href="https://www.linkedin.com/in/landon-ortiz2002/">IT Professional/Aerospace Engineering Technician </a>, 
 
-<h2> Certifcations: </h2>
-- [IPC/WHMA-A-620 CIS]()
-, [IPC/WHMA-A-620 Space Addendum]()
-, [SpaceX Cable and Harness Manufacturing]()
-, [Google IT Support Professional Certificate]()
+<h2>Certifications:</h2>
+ <b>  </b>
+ 
+- [IPC/WHMA-A-620 Space Addendum]()
+- [SpaceX Cable and Harness Manufacturing]()
+- [Google IT Support Professional Certificate](https://coursera.org/share/2ee083e7191081745089dca070b9aa92)
 
 <h2>👨‍💻 Engineering Technician:</h2>
 
