@@ -2,9 +2,9 @@
 
 <h2> Certifcations: </h2>
 - [IPC/WHMA-A-620 CIS]()
-- [IPC/WHMA-A-620 Space Addendum]()
-- [SpaceX Cable and Harness Manufacturing]()
-- [Google IT Support Professional Certificate]()
+, [IPC/WHMA-A-620 Space Addendum]()
+, [SpaceX Cable and Harness Manufacturing]()
+, [Google IT Support Professional Certificate]()
 
 <h2>👨‍💻 Engineering Technician:</h2>
 
