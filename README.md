@@ -1,8 +1,8 @@
 <h1>Hi, I'm Landon! <br/><a href="https://github.com/Landon-Ortiz">IT Specialist</a>, <a href="https://www.linkedin.com/in/landon-ortiz2002/">IT Professional</a>,
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Engineering Technician:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b> Cable Test (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
