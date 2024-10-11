@@ -5,14 +5,13 @@
  
 - [IPC/WHMA-A-620 Requirements & Acceptance for Cable & Wire Harness Assemblies](https://i.imgur.com/qJ6L3F6.jpeg)
 - [Space Applications Electronic Hardware IPC/WHMA-A-620](https://i.imgur.com/gYDmxmQ.jpeg)
-- [SpaceX Cable and Harness Manufacturing]
+- [SpaceX Cable and Harness Manufacturing]()
 - [Google IT Support Professional Certificate](https://coursera.org/share/2ee083e7191081745089dca070b9aa92)
 
 <h2>👨‍💻 Engineering Technician:</h2>
 
 - <b> Cable Test </b>
-  - [Cami Cable Testing](https://github.com/Landon-Ortiz/Cami-Cable-Testing/tree/main)
-  - [Manual Cable Testing]()
+  - [Cable Testing](https://github.com/Landon-Ortiz/Cami-Cable-Testing/tree/main)
   - [Programming Cable Test Pins]()
 - <b> Building Cables </b>
   - [Fixture Cables]()
