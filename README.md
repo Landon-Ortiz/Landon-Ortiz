@@ -14,15 +14,15 @@
   - [Cable Testing](https://github.com/Landon-Ortiz/Cami-Cable-Testing/tree/main)
   - [Programming Cable Pins](https://github.com/Landon-Ortiz/Programming-Cables-Pins)
 - <b> Building Cables </b>
-  - [Fixture Cables]()
-  - [Nasa Cables]()
-  - [Space X]()
-- <b> Cleaning and 6S </b>
-
+  - [Fixture Cables] (work in progress) ()
+  - [Nasa Cables] (work in progress)()
+  - [Space X] (work in progress)()
+- <b> 6s and Organization </b>
+  - [6s and Cleaniness] (work in progress) ()
 <h2>📺 Quality Assurance Technician</h2>
 
 - <b> Inspection </b>
-  - [Inspecting Cables]()
+- [Inspecting Cables] (work in progress)
 
 <h2> 🤳 Connect with me:</h2>
 
