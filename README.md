@@ -3,8 +3,8 @@
 <h2>Certifications:</h2>
  <b>  </b>
  
-- [IPC/WHMA-A-620 Requirements & Acceptance for Cable & Wire Harness Assemblies]()
-- [Space Applications Electronic Hardware IPC/WHMA-A-620]()
+- [IPC/WHMA-A-620 Requirements & Acceptance for Cable & Wire Harness Assemblies](https://i.imgur.com/qJ6L3F6.jpeg)
+- [Space Applications Electronic Hardware IPC/WHMA-A-620](https://i.imgur.com/YbkrWQb.jpeg)
 - [SpaceX Cable and Harness Manufacturing]()
 - [Google IT Support Professional Certificate](https://coursera.org/share/2ee083e7191081745089dca070b9aa92)
 
