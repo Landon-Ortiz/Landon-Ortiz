@@ -12,7 +12,7 @@
 
 - <b> Cable Test </b>
   - [Cable Testing](https://github.com/Landon-Ortiz/Cami-Cable-Testing/tree/main)
-  - [Programming Cable Test Pins]()
+  - [Programming Cable Pins]()
 - <b> Building Cables </b>
   - [Fixture Cables]()
   - [Nasa Cables]()
