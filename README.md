@@ -13,7 +13,7 @@
 - <b> Cable Test </b>
   - [Cable Testing](https://github.com/Landon-Ortiz/Cami-Cable-Testing/tree/main)
   - [Programming Cable Pins](https://github.com/Landon-Ortiz/Programming-Cables-Pins)
-- <b> Building Cables </b>
+- <b> Assembling Cables </b>
   - [Fixture Cables] (work in progress) ()
   - [Nasa Cables] (work in progress)()
   - [Space X] (work in progress)()
