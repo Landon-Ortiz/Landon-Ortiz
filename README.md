@@ -11,7 +11,7 @@
 <h2>👨‍💻 Engineering Technician:</h2>
 
 - <b> Cable Test </b>
-  - [Cami Cable Testing]()
+  - [Cami Cable Testing](https://github.com/Landon-Ortiz/Cami-Cable-Testing/tree/main)
   - [Manual Cable Testing]()
   - [Programming Cable Test Pins]()
 - <b> Building Cables </b>
