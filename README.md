@@ -18,13 +18,16 @@
   - [Nasa Cables]()
   - [Space X]()
 - <b> Cleaning and 6S </b>
-- []()
+
 <h2>📺 Quality Assurance Technician</h2>
 
-- <b> Inspecting </b>
-- [Inspecting Cables]()
+- <b> Inspection </b>
+  - [Inspecting Cables]()
 
 <h2> 🤳 Connect with me:</h2>
+
+- <b> Linkedin </b>
+  - [Contact Me](https://www.linkedin.com/in/landon-ortiz2002/)
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
