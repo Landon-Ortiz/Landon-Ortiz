@@ -22,10 +22,7 @@
 <h2>📺 Quality Assurance Technician</h2>
 
 - <b> Inspecting </b>
-- [Stripping]()
-- [Crimps]()
-- [Torques]()
-- [Data Entry]()
+- [Inspecting Cables]()
 
 <h2> 🤳 Connect with me:</h2>
 
